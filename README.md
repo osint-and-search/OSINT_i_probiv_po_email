@@ -68,4 +68,4 @@
 
 Информация представлена «как есть» и служит для понимания рисков и повышения уровня цифровой безопасности при работе с электронной почтой.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
